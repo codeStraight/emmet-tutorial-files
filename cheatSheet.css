@@ -1,0 +1,146 @@
+p{
+
+    /* pos =   position:relative; */
+    
+    /* pos:s   =   position:static; */
+    
+    /* pos:a   =   position:absolute; */
+    
+    /* pos:r   =   position:relative; */
+    
+    /* pos:f   =   position:fixed; */
+    
+    /* t   =   top:; */
+    
+    /* t:a =   top:auto; */
+    
+    /* r   =   right:; */
+    
+    /* r:a =   right:auto; */
+    
+    /* b   =   bottom:; */
+    
+    /* b:a =   bottom:auto; */
+    
+    /* l   =   left:; */
+    
+    /* l:a =   left:auto; */
+    
+    /* z   =   z-index:; */
+    
+    /* fl  =   float:left; */
+    
+    /* fl:n    =   float:none; */
+    
+    /* fl:l    =   float:left; */
+    
+    /* fl:r    =   float:right; */
+    
+    /* cl  =   clear:both; */
+    
+    /* d   =   display:block; */
+    
+    /* d:n =   display:none; */
+    
+    /* d:f =   display:flex; */
+    
+    /* v   =   visibility:hidden; */
+    
+    /* v:v =   visibility:visible; */
+    
+    /* v:c =   visibility:collapse; */
+    
+    /* m   =   margin:; */
+    
+    /* m:a =   margin:auto; */
+    
+    /* mt  =   margin-top:; */
+    
+    /* mr  =   margin-right:; */
+    
+    /* mb  =   margin-bottom:; */
+    
+    /* ml  =   margin-left:; */
+    
+    /* p   =   padding:; */
+    
+    /* pt  =   padding-top:; */
+    
+    /* pr  =   padding-right:; */
+    
+    /* pb  =   padding-bottom:; */
+    
+    /* pl  =   padding-left:; */
+    
+    /* bxz =   box-sizing:border-box; */
+    
+    /* w   =   width:; */
+    
+    /* w:a =   width:auto; */
+    
+    /* h   =   height:; */
+    
+    /* h:a =   height:auto; */
+    
+    /* f   =   font:; */
+    
+    /* f+  =   font:1em Arial,sans-serif; */
+    
+    /* fw  =   font-weight:; */
+    
+    /* fw:n    =   font-weight:normal; */
+    
+    /* fw:b    =   font-weight:bold; */
+    
+    /* fz  =   font-size:; */
+    
+    /* ff  =   font-family:; */
+    
+    /* ff:s    =   font-family:serif; */
+    
+    /* ff:ss   =   font-family:sans-serif; */
+    
+    /* ta  =   text-align:left; */
+    
+    /* ta:c    =   text-align:center; */
+    
+    /* ta:r    =   text-align:right; */
+    
+    /* bg  =   background:#000; */
+    
+    /* bg+ =   background:#fff url() 0 0 no-repeat; */
+    
+    /* bg:n    =   background:none; */
+    
+    /* c   =   color:#000; */
+    
+    /* c:r =   color:rgb(0, 0, 0); */
+    
+    
+    /* c:ra    =   color:rgba(0, 0, 0, .5); */
+    
+    
+    /* op  =   opacity:; */
+    
+    /* ol  =   outline:; */
+    
+    /* ol:n    =   outline:none; */
+    
+    /* olo =   outline-offset:; */
+    
+    /* olw =   outline-width:; */
+    
+    /* bd  =   border:; */
+    
+    /* bd+ =   border:1px solid #000; */
+    
+    
+    /* bd:n    =   border:none; */
+    
+    /* lis =   list-style:; */
+    
+
+    /* lis:n   =   list-style:none; */  
+
+    
+    }
